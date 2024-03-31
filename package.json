@@ -1,0 +1,11 @@
+{
+  "name": "app-cmr-node",
+  "version": "1.0.0",
+  "description": "Visualiza o consumo de memoria RAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raposa-Dev",
+  "license": "ISC"
+}
