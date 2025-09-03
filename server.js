@@ -9,11 +9,16 @@ HTTP.createServer((req, res) => {
 
     if(url === "/"){
         res.end("<h2>Server is runing!</h2>");
-    }else if(url === "/stats"){
+        return
+    }
+    
+    if(url === "/stats"){
         res.end(JSON.stringify(stats, null, 2));
-    }else{
-        res.end("<h2>Pagina não encontrada</h2>");
-    };
+        return
+    }
+        
+    res.end("<h2>Pagina não encontrada</h2>");
+    
 
     
 }).listen(PORT, () => {
