@@ -18,15 +18,15 @@ Ele disponibiliza endpoints para verificar o status do servidor e obter estatís
 
 
 
-┌─────────────┬─────────────┐
-│ (index)     │ Values      │
-├─────────────┼─────────────┤
-│ TypeOS      │ 'linux'     │
-│ Archtecture │ 'x64'       │
-│ TotalRam    │ '7944 : MB' │
-│ FreeRam     │ '5771 : MB' │
-│ UsageRAM    │ '72.65 : %' │
-└─────────────┴─────────────┘
+┌─────────────┬─────────────┐                                                                         
+│ (index)     │ Values      │                                                                         
+├─────────────┼─────────────┤                                                                         
+│ TypeOS      │ 'linux'     │                                                                         
+│ Archtecture │ 'x64'       │                                                                         
+│ TotalRam    │ '7944 : MB' │                                                                         
+│ FreeRam     │ '5771 : MB' │                                                                         
+│ UsageRAM    │ '72.65 : %' │                                                                         
+└─────────────┴─────────────┘                                                                         
 
 
 
